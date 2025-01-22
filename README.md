@@ -7,12 +7,12 @@
 
 </div>
 
-
+<!-- 
 ## 🛠️ Tech stack
 <div align="center">
 <img src="https://github.com/AgustinaHourcade/AgustinaHourcade/blob/main/Tech-stack.gif" alt="Agustina´s tech stack" width="300"/>
 </div>
-
+-->
 <br>
 
 ## 📨 Contact me 
