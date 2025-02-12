@@ -3,7 +3,7 @@
 
 ## 🔗 Portfolio
 <div align="center">
-<a href="https://agustinahourcade.netlify.app/">Click aquí para verlo</a>
+<a href="https://agustinahourcade.netlify.app/">Click here</a>
 
 </div>
 
