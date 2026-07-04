@@ -84,7 +84,7 @@
 
   <!-- ![Gráfico de contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=agustinahourcade&theme=radical) -->
 
-  ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=agustinahourcade&theme=radical)
+  <!-- ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=agustinahourcade&theme=radical) -->
 
   <!-- ![Repo](https://github-stats-extended.vercel.app/api/pin/?username=agustinahourcade&repo=ML-airline-passenger-satisfaction&theme=radical) -->
 </p>
