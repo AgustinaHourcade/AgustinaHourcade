@@ -77,8 +77,16 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agustinahourcade&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinahourcade&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165">
+
+  <!-- ![Estadísticas de GitHub](https://github-stats-extended.vercel.app/api?username=agustinahourcade&show_icons=true&theme=radical) -->
+
+  ![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs/?username=agustinahourcade&layout=compact&theme=radical)
+
+  <!-- ![Gráfico de contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=agustinahourcade&theme=radical) -->
+
+  ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=agustinahourcade&theme=radical)
+
+  <!-- ![Repo](https://github-stats-extended.vercel.app/api/pin/?username=agustinahourcade&repo=ML-airline-passenger-satisfaction&theme=radical) -->
 </p>
 
 ---
